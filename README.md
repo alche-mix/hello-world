@@ -1,2 +1,4 @@
 # hello-world
-just
+This is my first change to a file checked into Github
+
+##Hallo
